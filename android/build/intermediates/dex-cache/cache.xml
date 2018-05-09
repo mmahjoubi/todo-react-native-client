@@ -1,0 +1,320 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/home/mehdi/TruckDriverTest/TodoReactClient/android/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.3.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="45f697922e6f072daa12f8a2995dc77ab03c11da">
+        <dex dex="/home/mehdi/TruckDriverTest/TodoReactClient/android/app/build/intermediates/pre-dexed/release/com.android.support-support-media-compat-25.3.1_91d777a67f57bf5565dd37ea35ef516ec97b45ec.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/mehdi/TruckDriverTest/TodoReactClient/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.3.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="150252b33b00274cc868578ade018fda0d43a3eb">
+        <dex dex="/home/mehdi/TruckDriverTest/TodoReactClient/android/app/build/intermediates/pre-dexed/release/com.android.support-appcompat-v7-25.3.1_42cbb9559f38d5a9d96fd23f888e40256b845917.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/mehdi/TruckDriverTest/TodoReactClient/android/app/build/intermediates/exploded-aar/com.facebook.fresco/fbcore/1.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="37345de2ed2772f385eaeec37a9c2ff0fea99ad7">
+        <dex dex="/home/mehdi/TruckDriverTest/TodoReactClient/android/app/build/intermediates/pre-dexed/release/com.facebook.fresco-fbcore-1.3.0_ddcfcead58b6b8eee5b1366a899ab1830cedc477.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/mehdi/TruckDriverTest/TodoReactClient/android/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.3.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="052f5f840f21174a3ecf6544130194e2652cbb73">
+        <dex dex="/home/mehdi/TruckDriverTest/TodoReactClient/android/app/build/intermediates/pre-dexed/release/com.android.support-support-core-ui-25.3.1_cbc3636f9d21a39d7380e5d19d4d22da799974af.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/mehdi/TruckDriverTest/TodoReactClient/android/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/25.3.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="efb8cb62d47d157c29d1521daac7eefd4cb881ee">
+        <dex dex="/home/mehdi/TruckDriverTest/TodoReactClient/android/app/build/intermediates/pre-dexed/release/com.android.support-support-vector-drawable-25.3.1_88d83f43642fea4743c1e9e1e5380c484871e3f3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/mehdi/TruckDriverTest/TodoReactClient/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline/1.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="48c7f54c2515a2312d3a4481d10c43fbb807f3af">
+        <dex dex="/home/mehdi/TruckDriverTest/TodoReactClient/android/app/build/intermediates/pre-dexed/release/com.facebook.fresco-imagepipeline-1.3.0_c545e64a4b413f50c0dc7c081ce93d960a14fbb8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/mehdi/TruckDriverTest/TodoReactClient/android/app/build/intermediates/exploded-aar/com.facebook.fresco/fresco/1.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="fe85b87215e405f5917d40ae4960488ac9224b74">
+        <dex dex="/home/mehdi/TruckDriverTest/TodoReactClient/android/app/build/intermediates/pre-dexed/release/com.facebook.fresco-fresco-1.3.0_2d9b8b6dfc282ac3ab698205cb6bfb14047cccd2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/mehdi/TruckDriverTest/TodoReactClient/android/app/build/intermediates/exploded-aar/com.facebook.soloader/soloader/0.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="8f615bca00639150c9eb6175d4b5471193f70794">
+        <dex dex="/home/mehdi/TruckDriverTest/TodoReactClient/android/app/build/intermediates/pre-dexed/release/com.facebook.soloader-soloader-0.1.0_414899eeb46d0900a9a91791c2eeb888d095ffc4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/mehdi/TruckDriverTest/TodoReactClient/android/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/25.3.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="47635644d0d5c103c1dd8360549eb9ba3225c7d3">
+        <dex dex="/home/mehdi/TruckDriverTest/TodoReactClient/android/app/build/intermediates/pre-dexed/release/com.android.support-animated-vector-drawable-25.3.1_93c654956e4656d0020f7abd4d6f0ae6495239ed.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/mehdi/TruckDriverTest/TodoReactClient/android/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/25.3.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="95519720620b553f63afc789beba9ad582807f7c">
+        <dex dex="/home/mehdi/TruckDriverTest/TodoReactClient/android/app/build/intermediates/pre-dexed/release/com.android.support-recyclerview-v7-25.3.1_40f9c745fbaca5faf20e443bd91dc7a1d3125c36.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/mehdi/TruckDriverTest/TodoReactClient/android/app/build/intermediates/exploded-aar/com.android.support/design/25.3.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="38789e20ace9ab7dbd00554bd2673ab424478d3b">
+        <dex dex="/home/mehdi/TruckDriverTest/TodoReactClient/android/app/build/intermediates/pre-dexed/release/com.android.support-design-25.3.1_b5dd51ca92cea44bc56495fa410fb0423874d48a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/mehdi/TruckDriverTest/TodoReactClient/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.55.3/jars/libs/infer-annotations-4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="9809e90be788acdb479b2b44e2112f3295a03068">
+        <dex dex="/home/mehdi/TruckDriverTest/TodoReactClient/android/app/build/intermediates/pre-dexed/release/infer-annotations-4.0_44593ecef35d932c60b6687125c493f55134fd8c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/mehdi/TruckDriverTest/TodoReactClient/android/app/build/intermediates/exploded-aar/TodoReactClient/react-native-navigation/unspecified/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="01157263f65cae63c564043bd309aa890b58283b">
+        <dex dex="/home/mehdi/TruckDriverTest/TodoReactClient/android/app/build/intermediates/pre-dexed/release/TodoReactClient-react-native-navigation-unspecified_33427f2f445886c4e50e33758632ba8afcbf9197.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/mehdi/TruckDriverTest/TodoReactClient/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline-base/1.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="72128af126ddd7d6252da9357fe560d3abcdfb0c">
+        <dex dex="/home/mehdi/TruckDriverTest/TodoReactClient/android/app/build/intermediates/pre-dexed/release/com.facebook.fresco-imagepipeline-base-1.3.0_fe6b02f32fd3ca1d5e5c0d93d31132f2a733d1a3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/mehdi/.gradle/caches/modules-2/files-2.1/com.facebook.fbui.textlayoutbuilder/staticlayout-proxy/1.0/f162442a19fff13995fbd51ba414d9ee05579080/staticlayout-proxy-1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="f162442a19fff13995fbd51ba414d9ee05579080">
+        <dex dex="/home/mehdi/TruckDriverTest/TodoReactClient/android/app/build/intermediates/pre-dexed/release/staticlayout-proxy-1.0_ed4ddab333f1ba060bfb83a3a511c72e2e68872e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/mehdi/TruckDriverTest/TodoReactClient/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline-okhttp3/1.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="c03c08c9934b23c8c09c803345ec51a74119127b">
+        <dex dex="/home/mehdi/TruckDriverTest/TodoReactClient/android/app/build/intermediates/pre-dexed/release/com.facebook.fresco-imagepipeline-okhttp3-1.3.0_ef2df303ee90dde5b8579686c354f6e985f5a279.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/mehdi/TruckDriverTest/TodoReactClient/android/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.3.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="6ef31f1555bb4cc513ec8d52711365a8b89f3600">
+        <dex dex="/home/mehdi/TruckDriverTest/TodoReactClient/android/app/build/intermediates/pre-dexed/release/com.android.support-support-core-utils-25.3.1_3deb321c4d02ebfbca74c7dd9324902ef3cd39d6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/mehdi/TruckDriverTest/TodoReactClient/android/app/build/intermediates/exploded-aar/com.android.support/transition/25.3.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="d4cf6227dd6a2ceff0f7dcf0c324380b7abf2c28">
+        <dex dex="/home/mehdi/TruckDriverTest/TodoReactClient/android/app/build/intermediates/pre-dexed/release/com.android.support-transition-25.3.1_07d8715fb9dc944c0c11635cad06f10a73d74129.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/mehdi/TruckDriverTest/TodoReactClient/android/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.3.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="da27a32db6af8954ee8061537c7d476fcb1df46f">
+        <dex dex="/home/mehdi/TruckDriverTest/TodoReactClient/android/app/build/intermediates/pre-dexed/release/com.android.support-support-compat-25.3.1_993032df5419db4f89c9eb16317b063f6e99a308.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/mehdi/TruckDriverTest/TodoReactClient/android/app/build/intermediates/exploded-aar/com.balysv.materialmenu/material-menu/1.5.4/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="1f6ff1728c297524e82b875ce2dfda946f4bca41">
+        <dex dex="/home/mehdi/TruckDriverTest/TodoReactClient/android/app/build/intermediates/pre-dexed/release/com.balysv.materialmenu-material-menu-1.5.4_ee0d86141c7515eb273eff9ea70b8977ca8f4fbe.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/mehdi/TruckDriverTest/TodoReactClient/android/app/build/intermediates/exploded-aar/com.facebook.fresco/drawee/1.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="c65a2e39d54023bac3aef64a2f0cff89289c7ff6">
+        <dex dex="/home/mehdi/TruckDriverTest/TodoReactClient/android/app/build/intermediates/pre-dexed/release/com.facebook.fresco-drawee-1.3.0_20c3cf19cbcd35c98e57da9a26e125d869550fb8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/mehdi/TruckDriverTest/TodoReactClient/android/app/build/intermediates/exploded-aar/com.balysv.materialmenu/material-menu-toolbar/1.5.4/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="55d7bf547c88cb7c8c7c5cdbf3b06dd66c9750f8">
+        <dex dex="/home/mehdi/TruckDriverTest/TodoReactClient/android/app/build/intermediates/pre-dexed/release/com.balysv.materialmenu-material-menu-toolbar-1.5.4_edd3e0d3f50f945fe23ebaf4dd4172ef2365e0ab.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/mehdi/TruckDriverTest/TodoReactClient/android/app/build/intermediates/exploded-aar/com.aurelhubert/ahbottomnavigation/2.0.6/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="c8ba41bea7f78f8bdf3a803b9d08eb3fff416706">
+        <dex dex="/home/mehdi/TruckDriverTest/TodoReactClient/android/app/build/intermediates/pre-dexed/release/com.aurelhubert-ahbottomnavigation-2.0.6_e6903e68b0d69fd6e38b6bbd738f9f4c89cc1ec0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/mehdi/TruckDriverTest/TodoReactClient/android/app/build/intermediates/exploded-aar/com.android.support/support-v4/25.3.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/home/mehdi/TruckDriverTest/TodoReactClient/android/app/build/intermediates/pre-dexed/release/com.android.support-support-v4-25.3.1_ccccca33f14fb73a547ffaa4414a9cabed7f0783.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/mehdi/.gradle/caches/modules-2/files-2.1/com.parse.bolts/bolts-tasks/1.4.0/d85884acf6810a3bbbecb587f239005cbc846dc4/bolts-tasks-1.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="d85884acf6810a3bbbecb587f239005cbc846dc4">
+        <dex dex="/home/mehdi/TruckDriverTest/TodoReactClient/android/app/build/intermediates/pre-dexed/release/bolts-tasks-1.4.0_3c0526c1a9f15ad1133dc3d4bafdd1d457ef897e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/mehdi/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.13.0/a9283170b7305c8d92d25aff02a6ab7e45d06cbe/okio-1.13.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="a9283170b7305c8d92d25aff02a6ab7e45d06cbe">
+        <dex dex="/home/mehdi/TruckDriverTest/TodoReactClient/android/app/build/intermediates/pre-dexed/release/okio-1.13.0_7129952cbb9ac2f40afbcd6e46774431662edc26.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/mehdi/.gradle/caches/modules-2/files-2.1/com.nineoldandroids/library/2.4.0/e9b63380f3a242dbdbf103a2355ad7e43bad17cb/library-2.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="e9b63380f3a242dbdbf103a2355ad7e43bad17cb">
+        <dex dex="/home/mehdi/TruckDriverTest/TodoReactClient/android/app/build/intermediates/pre-dexed/release/library-2.4.0_e2b990fbc360ceb3f3215b7bb673101b09eb121e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/mehdi/TruckDriverTest/TodoReactClient/android/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.3.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="4a26a1154d053ab11aaf4c3967c42a4d66390991">
+        <dex dex="/home/mehdi/TruckDriverTest/TodoReactClient/android/app/build/intermediates/pre-dexed/release/com.android.support-support-fragment-25.3.1_4219ad507f2f5b118b5618418437fb7e5b2131a3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/mehdi/TruckDriverTest/TodoReactClient/android/app/build/intermediates/exploded-aar/com.facebook.fbui.textlayoutbuilder/textlayoutbuilder/1.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="f90b593491e4044903f0bbf68dc3fa2790b151b9">
+        <dex dex="/home/mehdi/TruckDriverTest/TodoReactClient/android/app/build/intermediates/pre-dexed/release/com.facebook.fbui.textlayoutbuilder-textlayoutbuilder-1.0.0_76194150577cf3f3835979d0a76221f164d635c4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/mehdi/.gradle/caches/modules-2/files-2.1/com.google.code.findbugs/jsr305/3.0.0/5871fb60dc68d67da54a663c3fd636a10a532948/jsr305-3.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="5871fb60dc68d67da54a663c3fd636a10a532948">
+        <dex dex="/home/mehdi/TruckDriverTest/TodoReactClient/android/app/build/intermediates/pre-dexed/release/jsr305-3.0.0_b09d30d1fd4e619cd083c4166d9c105b4264d4e8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/mehdi/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/25.3.1/support-annotations-25.3.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="bf8841d29fa39e077730e7a91222c2ce269fa7c9">
+        <dex dex="/home/mehdi/TruckDriverTest/TodoReactClient/android/app/build/intermediates/pre-dexed/release/support-annotations-25.3.1_ba560c17b1d4dd0eceea9d7eea899a45a8fda655.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/mehdi/TruckDriverTest/TodoReactClient/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.55.3/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="01f201f8a16c7438c9ee4c56139d01663f2cb0e4">
+        <dex dex="/home/mehdi/TruckDriverTest/TodoReactClient/android/app/build/intermediates/pre-dexed/release/com.facebook.react-react-native-0.55.3_2241749f135a7bf5cec580447f35915aff636156.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/mehdi/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp-urlconnection/3.6.0/3f9b16b774f2c36cfd86dd2053d0b3059531dacc/okhttp-urlconnection-3.6.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="3f9b16b774f2c36cfd86dd2053d0b3059531dacc">
+        <dex dex="/home/mehdi/TruckDriverTest/TodoReactClient/android/app/build/intermediates/pre-dexed/release/okhttp-urlconnection-3.6.0_91a9f06959c02de57f24c6319d3630880fdcdf37.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/mehdi/.gradle/caches/modules-2/files-2.1/javax.inject/javax.inject/1/6975da39a7040257bd51d21a231b76c915872d38/javax.inject-1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="6975da39a7040257bd51d21a231b76c915872d38">
+        <dex dex="/home/mehdi/TruckDriverTest/TodoReactClient/android/app/build/intermediates/pre-dexed/release/javax.inject-1_6a4ffa03e6b6ff2655066e200c92d79629aeaf0f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/mehdi/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp/3.6.0/69edde9fc4b01c9fd51d25b83428837478c27254/okhttp-3.6.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="69edde9fc4b01c9fd51d25b83428837478c27254">
+        <dex dex="/home/mehdi/TruckDriverTest/TodoReactClient/android/app/build/intermediates/pre-dexed/release/okhttp-3.6.0_fc8a9be1c9fae5cf90131e064c8f2d3d5a7b673e.jar" />
+    </item>
+
+</items>
